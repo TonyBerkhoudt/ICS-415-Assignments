@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2dc2982c-a026-4d8c-ab19-54ac4e913ffc" name="Default" comment="" />
+    <list default="true" id="2dc2982c-a026-4d8c-ab19-54ac4e913ffc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IC/w1c2/HelloWorld.html" afterPath="$PROJECT_DIR$/IC/w1c2/HelloWorld.html" />
+    </list>
     <ignored path="IC.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,8 +28,8 @@
       <file leaf-file-name="HelloWorld.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IC/w1c2/HelloWorld.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25835866">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.2325228">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -393,12 +395,12 @@
       <created>1440709131859</created>
       <option name="number" value="Default" />
       <updated>1440709131859</updated>
-      <workItem from="1440709139309" duration="1168000" />
+      <workItem from="1440709139309" duration="1407000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1168000" />
+    <option name="totallyTimeSpent" value="1407000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="58" width="1400" height="820" extended-state="0" />
@@ -439,8 +441,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/IC/w1c2/HelloWorld.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25835866">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.2325228">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding />
         </state>
       </provider>
