@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2dc2982c-a026-4d8c-ab19-54ac4e913ffc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HW/A04/A04Forms.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HW/A04/A04.html" afterPath="$PROJECT_DIR$/HW/A04/A04.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="2dc2982c-a026-4d8c-ab19-54ac4e913ffc" name="Default" comment="" />
     <ignored path="IC.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -485,12 +481,12 @@
       <option name="number" value="Default" />
       <updated>1440709131859</updated>
       <workItem from="1440709139309" duration="1633000" />
-      <workItem from="1441094004756" duration="7660000" />
+      <workItem from="1441094004756" duration="7922000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9293000" />
+    <option name="totallyTimeSpent" value="9555000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="579" y="38" width="1400" height="820" extended-state="0" />
