@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dc2982c-a026-4d8c-ab19-54ac4e913ffc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IC/w3c1/Bootstrapping.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IC/w3c1/Sidebar.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IC/w3c1/Bootstrapping.html" afterPath="$PROJECT_DIR$/IC/w3c1/Bootstrapping.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="IC.iws" />
@@ -90,8 +91,18 @@
       <file leaf-file-name="Bootstrapping.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IC/w3c1/Bootstrapping.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.331761">
-              <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.6430818">
+              <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sidebar.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IC/w3c1/Sidebar.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -103,6 +114,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Html5" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -124,6 +136,7 @@
         <option value="$PROJECT_DIR$/HW/A04/A04Forms.html" />
         <option value="$PROJECT_DIR$/HW/A05/A05.html" />
         <option value="$PROJECT_DIR$/IC/w3c1/Bootstrapping.html" />
+        <option value="$PROJECT_DIR$/IC/w3c1/Sidebar.css" />
       </list>
     </option>
   </component>
@@ -290,6 +303,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="FullScreen" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -555,15 +569,15 @@
       <workItem from="1440709139309" duration="1633000" />
       <workItem from="1441094004756" duration="8256000" />
       <workItem from="1441139255241" duration="2568000" />
-      <workItem from="1441676588195" duration="10015000" />
+      <workItem from="1441676588195" duration="10389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22472000" />
+    <option name="totallyTimeSpent" value="22846000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="212" y="15" width="1400" height="820" extended-state="0" />
+    <frame x="212" y="15" width="1400" height="820" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -889,10 +903,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/IC/w3c1/Sidebar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/IC/w3c1/Bootstrapping.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.331761">
-          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.6430818">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
           <folding />
         </state>
       </provider>
